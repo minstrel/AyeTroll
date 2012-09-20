@@ -17,3 +17,5 @@ Usage: ayetroll [options]
     -A                               Alternate order of fantasy/non-fantasy words, starting with non-fantasy (default)  
     -r                               Random order of fantasy/non-fantasy words  
     -x NUMBER                        Number of passwords to generate
+
+Distributed under MIT license.  See LICENSE file.
